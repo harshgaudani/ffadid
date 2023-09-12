@@ -26,5 +26,7 @@
    "Applovin_RewardedAdId": "71f72a7a29224f0b",
    "ChackUpdate": "false",
    "Policy": "https://google.com",
-   "VPN": "false"
+   "VPN": "false",
+   "firstInterFlag":"true",
+   "appOpenFlag":"false"
 }
