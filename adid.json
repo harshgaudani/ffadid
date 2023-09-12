@@ -28,5 +28,6 @@
    "Policy": "https://google.com",
    "VPN": "false",
    "firstInterFlag":"true",
-   "appOpenFlag":"false"
+   "appOpenFlag":"false",
+   "oneAdFlag":"false"
 }
