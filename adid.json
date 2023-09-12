@@ -10,6 +10,7 @@
    "AdMob_InterstitialAdId": "/6499/example/interstitial",
    "AdMob_NativeAdId": "/6499/example/native",
    "AdMob_RewardedAdId": "/21775744923/example/rewarded_interstitial",
+   "FB_AppId": "",
    "FB_BannerAdId": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
    "FB_InterstitialAdId": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
    "FB_NativeAdId": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512", 
