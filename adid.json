@@ -30,5 +30,6 @@
    "VPN": "false",
    "firstInterFlag":"true",
    "appOpenFlag":"false",
+   "firstAppOpenFlag":"true",
    "oneAdFlag":"false"
 }
