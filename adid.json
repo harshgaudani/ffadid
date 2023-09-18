@@ -1,8 +1,6 @@
 {   
    "AdsType": "Admob",
    "ChackUpdate": "false",
-   "Policy": "https://google.com",
-   "VPN": "false",
    "firstInterFlag":"false",
    "firstAppOpenFlag":"true",
    "appOpenFlag":"false",
@@ -11,12 +9,18 @@
    "Count_banner": "0",
    "Count_native": "0",
    "Count_native_banner": "0",
+   "Policy": "https://google.com",
    "AdMob_Id": "ca-app-pub-3940256099942544~3347511713",
    "AdMob_OpenAdId": "6499/example/app-open",
    "AdMob_BannerAdId": "/6499/example/banner",
    "AdMob_InterstitialAdId": "/6499/example/interstitial",
    "AdMob_NativeAdId": "/6499/example/native",
    "AdMob_RewardedAdId": "/21775744923/example/rewarded_interstitial",
+   "Applovin_BannerAdId": "3847b58f7b8c4f9e",
+   "Applovin_InterstitialAdId": "93a7c19b8f7746f7",
+   "Applovin_NativeAdId": "3e059d1ad1184e98",
+   "Applovin_NativeBannerAdId": "9930e17b224c4b7e",
+   "Applovin_RewardedAdId": "71f72a7a29224f0b",
    "FB_AppId": "",
    "FB_BannerAdId": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
    "FB_InterstitialAdId": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
@@ -27,10 +31,5 @@
    "Unity_BannerAdId": "Banner_Android",
    "Unity_InterstitialAdId": "Interstitial_Android", 
    "Unity_RewardedAdId": "Rewarded_Android",
-   "Applovin_BannerAdId": "3847b58f7b8c4f9e",
-   "Applovin_InterstitialAdId": "93a7c19b8f7746f7",
-   "Applovin_NativeAdId": "3e059d1ad1184e98",
-   "Applovin_NativeBannerAdId": "9930e17b224c4b7e",
-   "Applovin_RewardedAdId": "71f72a7a29224f0b"
- 
+   "VPN": "false"
 }
