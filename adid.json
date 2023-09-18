@@ -1,6 +1,6 @@
 {   
    "AdsType": "Admob",
-   "Count_inte": "100000",
+   "Count_inte": "0",
    "Count_banner": "0",
    "Count_native": "0",
    "Count_native_banner": "0",
@@ -28,8 +28,8 @@
    "ChackUpdate": "false",
    "Policy": "https://google.com",
    "VPN": "false",
-   "firstInterFlag":"true",
-   "appOpenFlag":"false",
+   "firstInterFlag":"false",
    "firstAppOpenFlag":"true",
-   "oneAdFlag":"false"
+   "appOpenFlag":"false",
+   "oneAdFlag":"true"
 }
