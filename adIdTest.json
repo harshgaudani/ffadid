@@ -1,26 +1,19 @@
-
 {
-
-"adplatform" : 0,
-  "versioncode" : 1,
-  "alladshow" : true,
-
-  "appopenshow" : true,
-  "bannershow" : true,
-  "nativeshow" : true,
-  "interstialshow" : true,
-
-
-  "admobappopenadid" : "/6499/example/app-open",
-  "admobbannerid" : "ca-app-pub-3940256099942544/6300978111",
-  "admobnativeid" : "ca-app-pub-3940256099942544/2247696110",
-  "admobnativebannerid" : "ca-app-pub-3940256099942544/2247696110",
-  "admobinterstialid" : "ca-app-pub-3940256099942544/1033173712",
-
- "facebookappopenadid" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebookbannerid" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebooknativeid" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebooknativebannerid" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebookinterstialid" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-
-  }
+    "adplatform": 0,
+    "versioncode": 1,
+    "alladshow": true,
+    "appopenshow": true,
+    "bannershow": true,
+    "nativeshow": true,
+    "interstialshow": true,
+    "admobappopenadid": "/6499/example/app-open",
+    "admobbannerid": "ca-app-pub-3940256099942544/6300978111",
+    "admobnativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admobnativebannerid": "ca-app-pub-3940256099942544/2247696110",
+    "admobinterstialid": "ca-app-pub-3940256099942544/1033173712",
+    "facebookappopenadid": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebookbannerid": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebooknativeid": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebooknativebannerid": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebookinterstialid": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+}
